@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blueeye-grh9",
+  "private_key_id": "951808731095f38ec39c4d528ab69f82289cb557",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQX/69oy4ASrpn\ns5mVXjWw3q1ocOAEs1CBTcfXNSlijb2SHL4pzUrU18ilvGyA/MabLD1ONUGcmuZJ\nistb14xXA0p4ziHyluEEKONdLU/pVk4Uxe5omaF4OxTG+kIS3NQmEOusxHZ0qKo6\n6OzBI+br9Xl+6qP5QYejH5WlfosPleIbI1TCSNcdQsGXZp6YvDIpg62axEa6lDp+\nWUNl/Ei13HXKu4Jti6VLfG+JZUIrcq4wQUe322xcReWj5FUjt/8UaTG2YaO4/LVm\nRxcVICOjqUvXQHQ3JbFOOQwzuzlayRi8oVx5tbe5NvDk94OH/HZ63SvlLLPHE2gY\nqOzYX3txAgMBAAECggEAOyeiBEiKjiMQSnI7wQhXXm92xL7PAw4Hs9tPQP3uxYtG\n+8mcHxuXCCub8lCIcrdflu/i9Jr8lbKgHczpMunX/kUCbAolvbSVYPNx6VkqD3TF\nzFwnKaOdFdq7UiXzEbB6mlg/gEwFLxp2mWmbrC1OLisny1lPs07myO8ljSgSyWDl\n9REdYi8o3HYvJ5UizODO0oH2v0US+rIEF2TR6STrLhhu3KwZnQFgYxqj6j+xENK5\nZEwtfOnVNReCxnu/qiuFB66v/rr4xH0EVnMGKn0oqzdaMyLacNF8P5iaz8lNAu+R\nL6NpkBQuWyMcd+g+0ZRE+Nrx4cv7zPN9g2ytdXkcgwKBgQDLlimP07dvN1OwCGwi\nqN6MZl30PAdPc0mUoJi2g9jWFE+ojNSuMeVrWfxRMWinEdcBqNA2Dt46Cx21BgZu\nJfTWcdyc/DsHSGfab2YQlPR7qmqYo4AbYC7fQctBvIdUvWn+blHgpd3B940hK+cN\nlqr9jNKnq4J5PHZXeJ1AcFqpPwKBgQC1i1uR3gbfixGsn8dRkJ6l1x9JWTXb0bp/\nadgMMx0Iips9n1g2t+3PZEUesVbLjeGl82FIkCMCoX+/VsPoWvcoW0dnW5LMSMpZ\njSTBZ/KKAFQCIXEPd7+WULM6vlJvi4sA72S1UKK3NWHMc+VxcJEPjd8/BNEiXDX+\nQAMfetF/TwKBgQDB0RuQSccAonORyvLnrEzy7SHVOrDa+q66SIoaeDse1AdiN3Di\nxa3cHbcQtTEknN9MPSK71DvMlniZtjq48nm9DnkxGxA3Rr9YPWW1s5ltgjgpSL7V\nUSROd5zB4HIWQp1+FBju/fm4h6xcQCef0CjJah/CcI2uTdl8PN+4UT5+kQKBgFw9\nLA9W8cMOk7JTlB/bDOBSBrFrxDOlwc4O5xh7t9qpIesTVOyoUwm2dm/7xo+xzN5W\nZC1MHp2tlIyQ9wTNgxpcFlFrc5Cbw0PwtKYXvGFlfUl/2EP1ocArzISiQpwuGDgn\nadG94I6ZbtFEaWVTvkBa4vzP47pDg6NkvrF14499AoGAZUyFc7nG1LN27aRnKqnu\nu/q2+hsIuKiE7RPALxf9pndqG8xCNopITwOglPF7IoNa6w9cpyPYVxqzInV8T7Qn\nGjGv92Gy7mxXg0GUMQYVsG1NYSNBlgdoVyUE2YaOvjoo2vJBZO78Yz7PwFr4fqgc\nfe2eJho+8QZUnz2mwG3hwAg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "blueeyechatbot@blueeye-grh9.iam.gserviceaccount.com",
+  "client_id": "112586105993679322730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blueeyechatbot%40blueeye-grh9.iam.gserviceaccount.com"
+}
